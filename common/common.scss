@@ -86,11 +86,6 @@ body textarea {
 }
 
 //No more image cropping
-#reply-control .d-editor-preview img:not(.thumbnail):not(.emoji),
-.cooked img:not(.thumbnail):not(.emoji) {
-  max-width: 100% !important;
-  height: auto;
-}
 #reply-control {
   background: $panel_background;
   color: $panel_color;
