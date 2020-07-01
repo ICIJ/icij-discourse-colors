@@ -1,4 +1,4 @@
-## Material Design Stock Theme
+## Discourse ICIJ theme (legacy)
 
-More info at: https://meta.discourse.org/t/material-design-stock-theme/47142?u=falco
+Based on https://meta.discourse.org/t/material-design-stock-theme/47142?u=falco
 
